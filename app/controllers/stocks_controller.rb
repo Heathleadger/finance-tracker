@@ -9,7 +9,6 @@ class StocksController < ApplicationController
         end
         render partial: 'users/result'
     end
-    
     def list
         
     end
